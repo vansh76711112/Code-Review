@@ -1,4 +1,4 @@
-A full-stack web application that allows users to submit code snippets and receive AI-generated reviews and suggestions using the Google Gemini Pro API. Built with the MERN stack (MongoDB, Express, React, Node.js).
+A full-stack web application that allows users to submit code snippets and receive AI-generated reviews and suggestions using the Google Gemini Pro API. Built with the MERN stack ( Express, React, Node.js).
  Features
  ->Submit any code snippet (JavaScript, Python, etc.)
  ->Get smart code reviews from Gemini API
